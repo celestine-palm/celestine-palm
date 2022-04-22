@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a javascript web app.**
 
-- 👯 I’m looking to collaborate on **web app knowledge.**
+- 👯 I’m looking to collaborate on **web app projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
